@@ -1,4 +1,4 @@
-# Full-Stack Data Analytics Project: Food Delivery Trends in Kerala
+# Full-Stack Data Analytics Project:  Delivery Trends in Kerala
 
 This project simulates and analyzes food delivery trends in Kerala, India, by generating realistic datasets, designing a relational database, and building an interactive Power BI dashboard for insights. It demonstrates skills in Python, PostgreSQL, and Power BI and showcases how they integrate to solve real-world data analytics problems.
 
